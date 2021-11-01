@@ -14,4 +14,5 @@ module.exports = {
     ],
     enabled: production // disable purge in dev
   },
+  darkMode: "media"
 };
